@@ -20,4 +20,6 @@ https://huggingface.co/docs/transformers/index
 
 https://huggingface.co/docs/tokenizers/index
 
+https://huggingface.co/docs/transformers/gguf
+
 https://huggingface.co/learn/nlp-course/chapter2/4
