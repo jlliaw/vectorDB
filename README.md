@@ -13,7 +13,7 @@ $ huggingface-cli download --local-dir taide8b taide/Llama3-TAIDE-LX-8B-Chat-Alp
 $ huggingface-cli download taide/Llama3-TAIDE-LX-8B-Chat-Alpha1
 ```
 
-參考資料:
+參考資料:<br>
 https://ihower.tw/blog/archives/11933
 
 https://huggingface.co/docs/transformers/index
